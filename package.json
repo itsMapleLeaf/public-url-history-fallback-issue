@@ -1,0 +1,11 @@
+{
+  "name": "public-url-history-fallback-issue",
+  "private": true,
+  "scripts": {
+    "build": "poi --prod",
+    "dev": "poi --serve"
+  },
+  "devDependencies": {
+    "poi": "^12.4.2"
+  }
+}
